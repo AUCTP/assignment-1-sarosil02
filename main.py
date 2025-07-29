@@ -1,9 +1,11 @@
+#Assignment 1
+#Name: Levente Sárosi 
+#Student number: 202106351
+
 import random
 import numpy as np
 
-
 #Functions
-
 def simulate_customers(items, inventories):
     sales = []
     indices = []
